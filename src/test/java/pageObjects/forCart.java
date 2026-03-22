@@ -5,8 +5,6 @@ public class forCart {
         System.out.println(";+login brachinden ekledim ");
         System.out.println("cok zor bu isler ");
         int a=20;
-         if (a+20>0){
-             System.out.println("islem dogru ");
-         }
+        System.out.println(a);
     }
 }
